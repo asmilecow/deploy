@@ -1,7 +1,7 @@
 version: '3'
 services:
   nginx:
-    image: 'asmilecow/dockercicd:'
+    image: 'asmilecow/docker-cicd:'
 nginx:
 image: nginx
 ports:
